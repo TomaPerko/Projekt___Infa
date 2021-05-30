@@ -1,0 +1,201 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'en' Physical Memory: 8077 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Toma\Unity\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Toma/Informatika/Infa projekt Franko i Toma
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52086
+Successfully changed project path to: D:/Toma/Informatika/Infa projekt Franko i Toma
+D:/Toma/Informatika/Infa projekt Franko i Toma
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 50.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path D:/Toma/Unity/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Toma/Informatika/Infa projekt Franko i Toma/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'D:/Toma/Unity/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Toma/Unity/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Toma/Unity/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56568
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Toma/Unity/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001522 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.434 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001949 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.139 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2008 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.1 MB.
+System memory in use after: 94.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2455.
+Total: 2.432200 ms (FindLiveObjects: 0.227200 ms CreateObjectMapping: 0.074000 ms MarkObjects: 1.998800 ms  DeleteObjects: 0.130700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Picaros.prefab
+  artifactKey: Guid(76d47e7425ead56489ef422119ce626f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Picaros.prefab using Guid(76d47e7425ead56489ef422119ce626f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a47419ca4090a880033270166103529') in 0.302094 seconds
+  Import took 0.306355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Strijela 2.png
+  artifactKey: Guid(b6e89c9f5fcc9b14d8f8947d7923b051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Strijela 2.png using Guid(b6e89c9f5fcc9b14d8f8947d7923b051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '857404624b4254fdfc1011dc38a62213') in 0.102861 seconds
+  Import took 0.106545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/MainMenuArtLarge.png
+  artifactKey: Guid(0f770c6692cb8bc4aba18f64037d2d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MainMenuArtLarge.png using Guid(0f770c6692cb8bc4aba18f64037d2d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9788e5b572c6935897a26734be8054fb') in 0.035125 seconds
+  Import took 0.038473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Streber.prefab
+  artifactKey: Guid(3a039edd7c9c3aa439495f84a103bd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Streber.prefab using Guid(3a039edd7c9c3aa439495f84a103bd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49ced90da2c7da6228db24f5bff66d96') in 0.027609 seconds
+  Import took 0.032463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.839444 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(88d32174186daab4d8f056c58d5e58ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(88d32174186daab4d8f056c58d5e58ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6077664a0275e9cae078a8856457e773') in 0.007092 seconds
+  Import took 0.011013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007854 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(88d32174186daab4d8f056c58d5e58ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(88d32174186daab4d8f056c58d5e58ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6077664a0275e9cae078a8856457e773') in 0.002322 seconds
+  Import took 0.006569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.485394 seconds.
+  path: Assets/Scenes/Igrica.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Igrica.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f8cc5ff422a601e4f7833afef09f16') in 0.010184 seconds
+  Import took 0.014451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1684.305640 seconds.
+  path: Assets/Sunnyland/Sunnyland tileovi/Sunnyland tileovi.prefab
+  artifactKey: Guid(ddd1c77a7a60f484abe89db936ee32cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/Sunnyland tileovi/Sunnyland tileovi.prefab using Guid(ddd1c77a7a60f484abe89db936ee32cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d28e86a04cea884827ec8a1da2399cb') in 0.013562 seconds
+  Import took 0.018588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.601798 seconds.
+  path: Assets/Sunnyland/artwork/Sprites/Enemies/eagle/eagle-attack-1.png
+  artifactKey: Guid(f240dfd4814d34d55a9b033f3c9d8a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Sprites/Enemies/eagle/eagle-attack-1.png using Guid(f240dfd4814d34d55a9b033f3c9d8a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbac3016bcd7dca5764270608a79e53e') in 0.039723 seconds
+  Import took 0.045049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Sunnyland/artwork/Sprites/Enemies/eagle/eagle-attack-4.png
+  artifactKey: Guid(63301056ddf5f4841800915f26c302d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Sprites/Enemies/eagle/eagle-attack-4.png using Guid(63301056ddf5f4841800915f26c302d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98be9a8ebd2191ba978abb6af1ba8829') in 0.017143 seconds
+  Import took 0.022437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Sunnyland/artwork/Sprites/Enemies/eagle/eagle-attack-3.png
+  artifactKey: Guid(36ec151523b4340ef982c2e9eb0af881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Sprites/Enemies/eagle/eagle-attack-3.png using Guid(36ec151523b4340ef982c2e9eb0af881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd22dc1b766052cbc6d228c21591669f') in 0.016455 seconds
+  Import took 0.020673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Sunnyland/artwork/Sprites/Enemies/eagle/eagle-attack-2.png
+  artifactKey: Guid(c97786e9459b34e058449b84cd9aab61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Sprites/Enemies/eagle/eagle-attack-2.png using Guid(c97786e9459b34e058449b84cd9aab61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98189cef7197119a40c10c3cb2de0d34') in 0.018336 seconds
+  Import took 0.022817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.073293 seconds.
+  path: Assets/Sunnyland/artwork/Sprites/Enemies/eagle
+  artifactKey: Guid(b38ec059928884139a1fc35d6fb8bb08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Sprites/Enemies/eagle using Guid(b38ec059928884139a1fc35d6fb8bb08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2fbf7c5f0a6eca3448cacee30e3ba13') in 0.010561 seconds
+  Import took 0.015551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000628 seconds.
+  path: Assets/Sunnyland/artwork/Sprites/Enemies/eagle
+  artifactKey: Guid(b38ec059928884139a1fc35d6fb8bb08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Sprites/Enemies/eagle using Guid(b38ec059928884139a1fc35d6fb8bb08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2fbf7c5f0a6eca3448cacee30e3ba13') in 0.002468 seconds
+  Import took 0.007894 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001822 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.086 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1981 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.9 MB.
+System memory in use after: 95.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2473.
+Total: 2.728200 ms (FindLiveObjects: 0.203400 ms CreateObjectMapping: 0.099700 ms MarkObjects: 2.376900 ms  DeleteObjects: 0.047300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
